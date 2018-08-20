@@ -1,3 +1,3 @@
-# mpi4py
+# MPI for python 
 
 Placeholder for content
